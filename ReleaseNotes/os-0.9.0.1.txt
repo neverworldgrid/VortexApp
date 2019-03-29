@@ -1,0 +1,20 @@
+
+Welcome to OpenSimulator 0.9.0.1, an open-source multi-user 3D virtual environm$
+
+This version includes several corrections and improvements to release 0.9.0.0
+
+It corresponds to the 0.9.1.0 Dev (git master) as of June 30, 2018
+
+Please read the 0.9.0.0 Release Notes for more details
+
+== Changes and Fixes ==
+BulletSim Physics engine now also improves the performance of llRayCast as ubOd$
+Robust mutes support using MuteListModuleTst region module
+
+== Modules Enabled ==
+* NeverWorldSearch
+* Gloebit Money Module
+* ReleaseNotesModule
+* NeverWorldEmail
+
+
