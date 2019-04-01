@@ -1,5 +1,5 @@
 <?php
-include("databaseinfo.php");
+require("../config.php");
 //Supress all Warnings/Errors
 //error_reporting(0);
 $now = time();
