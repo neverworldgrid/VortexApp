@@ -10,7 +10,7 @@
 //--------------------------------------------------------------------------------------------------
 
 // Require our Event class and datetime utilities
-require dirname(__FILE__) . 'utils.php';
+require'utils.php';
 
 // Short-circuit if the client did not give us a date range.
 if (!isset($_GET['start']) || !isset($_GET['end'])) {
